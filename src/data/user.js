@@ -7,7 +7,7 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
+		// twitter: "https://twitter.com/",
 		github: "https://github.com/cassinihx",
 		linkedin: "https://linkedin.com/in/stephengray7505",
 		instagram: "https://instagram.com/freethecloudy",
@@ -35,49 +35,58 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "3.js portfolio",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Please take a look at my Three.js portfolio built as a proof of concept for my BSc.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 2",
+			title: "p5.js portfolio",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Early first year p5.js work",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 5",
+			title: "Unity game - C# demonstration",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Assets compiled in Adobe Maya and code compiled using C# within the unity engine.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
+
+		// {
+		// 	title: "Project 3",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
+
+		// {
+		// 	title: "Project 4",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
+
+		// {
+		// 	title: "Project 5",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
 	],
 };
 
